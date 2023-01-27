@@ -10,3 +10,4 @@
 - https://github.com/shreyaschavhan/advice
 - https://github.com/shreyaschavhan/books
 - https://github.com/shreyaschavhan/efficiency-frameworks
+- https://github.com/shreyaschavhan/bugbountynotes
